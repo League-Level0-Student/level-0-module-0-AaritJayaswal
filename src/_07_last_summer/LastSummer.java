@@ -6,7 +6,7 @@ public class LastSummer {
 	
 	 public static void main(String[] args) throws Exception {
 		 String name = JOptionPane.showInputDialog("What is your name?");
-		 JOptionPane.showMessageDialog(null,"I know that you walked last summer, "+name +". HAHAHAHA!"); 
+		 JOptionPane.showMessageDialog(null,"I know that you breathed last summer, "+name +". HAHAHAHA!"); 
 		 
 }
 }
